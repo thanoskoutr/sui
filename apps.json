@@ -1,61 +1,56 @@
 {
   "apps": [
     {
-      "name": "Bazarr",
-      "url": "subs.example.com",
-      "icon": "message-video",
+      "name": "Plex",
+      "url": "geronimo:32400",
+      "icon": "plex",
       "target": "_blank"
     },
     {
-      "name": "CloudCMD",
-      "url": "files.example.com",
-      "icon": "folder-multiple-outline"
+      "name": "Home Assistant",
+      "url": "geronimo:8123",
+      "icon": "home-assistant"
     },
-    { "name": "Cockpit", "url": "cp.example.com", "icon": "airplane" },
-    { "name": "Feedbin", "url": "rss.example.com", "icon": "rss" },
-    { "name": "Filestash", "url": "cloud.example.com", "icon": "package" },
+    { "name": "Cockpit", "url": "geronimo:9090", "icon": "airplane" },
+    { "name": "Homer", "url": "geronimo:8080", "icon": "chart-donut" },
     {
-      "name": "Jackett",
-      "url": "jackett.example.com",
-      "icon": "tshirt-crew-outline"
-    },
-    { "name": "Lidarr", "url": "music.example.com", "icon": "music" },
-    { "name": "Minio", "url": "minio.example.com", "icon": "server" },
-    {
-      "name": "Mylar",
-      "url": "comics.example.com",
-      "icon": "book-open-variant"
+      "name": "SUI",
+      "url": "geronimo:4000",
+      "icon": "microsoft-xbox-controller-menu"
     },
     {
-      "name": "Nextcloud",
-      "url": "cloud.example.com",
-      "icon": "weather-cloudy"
+      "name": "DSL Link Info",
+      "url": "geronimo:8420",
+      "icon": "lan"
     },
     {
-      "name": "Ombi",
-      "url": "request.example.com",
-      "icon": "file-find-outline"
+      "name": "Node-RED",
+      "url": "geronimo:1880",
+      "icon": "relation-one-to-many"
+    },
+    { "name": "Apache", "url": "geronimo:1280", "icon": "feather" },
+    {
+      "name": "Nginx",
+      "url": "geronimo:80",
+      "icon": "alpha-n-circle-outline"
     },
     {
-      "name": "Pi-hole",
-      "url": "pihole.example.com",
-      "icon": "do-not-disturb"
-    },
-    { "name": "Plex", "url": "play.example.com", "icon": "plex" },
-    { "name": "Portainer", "url": "port1.example.com", "icon": "docker" },
-    { "name": "Radarr", "url": "movies.example.com", "icon": "filmstrip" },
-    { "name": "Sonarr", "url": "tv.example.com", "icon": "television-box" },
-    { "name": "Stackedit", "url": "md.example.com", "icon": "markdown" },
-    {
-      "name": "Transmission",
-      "url": "dl.example.com",
-      "icon": "progress-download"
+      "name": "WordPress",
+      "url": "geronimo:1280",
+      "icon": "wordpress"
     },
     {
-      "name": "Ubooquity",
-      "url": "opds.example.com",
-      "icon": "library-shelves"
+      "name": "phpMyAdmin",
+      "url": "geronimo:1280/phpmyadmin",
+      "icon": "language-php"
     },
-    { "name": "Youtube-DL", "url": "yt.example.com", "icon": "youtube" }
+    {
+      "name": "Blog",
+      "url": "geronimo:1313",
+      "icon": "rss"
+    },
+    { "name": "InfluxDB", "url": "geronimo:8086", "icon": "database" },
+    { "name": "Grafana", "url": "geronimo:3000", "icon": "chart-bar" },
+    { "name": "Portainer", "url": "geronimo:9000", "icon": "docker" }
   ]
 }

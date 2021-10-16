@@ -4,28 +4,23 @@
       "category": "Communicate",
       "links": [
         {
-          "name": "Discord",
-          "url": "https://discord.com"
-        },
-        {
           "name": "Gmail",
           "url": "http://gmail.com"
         },
         {
-          "name": "Slack",
-          "url": "https://slack.com/signin",
+          "name": "Outlook",
+          "url": "https://outlook.office.com/mail/inbox",
           "target": "_blank"
+        },
+        {
+          "name": "ProtonMail",
+          "url": "https://mail.protonmail.com/inbox"
         }
       ]
     },
     {
       "category": "Cloud",
       "links": [
-        {
-          "name": "Box",
-          "url": "https://box.com",
-          "target": "sui"
-        },
         {
           "name": "Dropbox",
           "url": "https://dropbox.com",
@@ -34,23 +29,6 @@
         {
           "name": "Drive",
           "url": "https://drive.google.com"
-        }
-      ]
-    },
-    {
-      "category": "Design",
-      "links": [
-        {
-          "name": "Awwwards",
-          "url": "https://awwwards.com"
-        },
-        {
-          "name": "Dribbble",
-          "url": "https://dribbble.com"
-        },
-        {
-          "name": "Muz.li",
-          "url": "https://medium.muz.li/"
         }
       ]
     },
@@ -68,23 +46,10 @@
         {
           "name": "Devhints",
           "url": "https://devhints.io"
-        }
-      ]
-    },
-    {
-      "category": "Lifestyle",
-      "links": [
-        {
-          "name": "Design Milk",
-          "url": "https://design-milk.com/category/interior-design/"
         },
         {
-          "name": "Dwell",
-          "url": "https://www.dwell.com/"
-        },
-        {
-          "name": "Freshome",
-          "url": "https://www.mymove.com/freshome/"
+          "name": "StackShare",
+          "url": "https://www.stackshare.io"
         }
       ]
     },
@@ -96,10 +61,6 @@
           "url": "http://browse.spotify.com"
         },
         {
-          "name": "Trakt",
-          "url": "http://trakt.tv"
-        },
-        {
           "name": "YouTube",
           "url": "https://youtube.com/feed/subscriptions"
         }
@@ -109,8 +70,8 @@
       "category": "Reading",
       "links": [
         {
-          "name": "Instapaper",
-          "url": "https://www.instapaper.com/u"
+          "name": "StackEdit",
+          "url": "https://stackedit.io"
         },
         {
           "name": "Medium",
@@ -119,23 +80,6 @@
         {
           "name": "Reddit",
           "url": "http://reddit.com"
-        }
-      ]
-    },
-    {
-      "category": "Tech",
-      "links": [
-        {
-          "name": "TheNextWeb",
-          "url": "https://thenextweb.com/"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/"
-        },
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/"
         }
       ]
     }
