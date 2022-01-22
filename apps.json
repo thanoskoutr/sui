@@ -51,6 +51,7 @@
     },
     { "name": "InfluxDB", "url": "geronimo:8086", "icon": "database" },
     { "name": "Grafana", "url": "geronimo:3000", "icon": "chart-bar" },
-    { "name": "Portainer", "url": "geronimo:9000", "icon": "docker" }
+    { "name": "Portainer", "url": "geronimo:9000", "icon": "docker" },
+    { "name": "Pi-hole", "url": "geronimo:8081", "icon": "pi-hole" }
   ]
 }
