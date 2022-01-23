@@ -13,7 +13,7 @@
       "icon": "home-assistant"
     },
     { "name": "Cockpit", "url": "192.168.1.99:9090", "icon": "airplane" },
-    { "name": "Homer", "url": "192.168.1.99:8080", "icon": "chart-donut" },
+    { "name": "Homer", "url": "192.168.1.99", "icon": "chart-donut" },
     {
       "name": "SUI",
       "url": "192.168.1.99:4000",
@@ -32,7 +32,7 @@
     { "name": "Apache", "url": "192.168.1.99:1280", "icon": "feather" },
     {
       "name": "Nginx",
-      "url": "192.168.1.99:80",
+      "url": "192.168.1.99:8080",
       "icon": "alpha-n-circle-outline"
     },
     {
