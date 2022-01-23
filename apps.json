@@ -6,7 +6,7 @@
       "icon": "plex",
       "target": "_blank"
     },
-    { "name": "Pi-hole", "url": "192.168.1.99:8081", "icon": "pi-hole" },
+    { "name": "Pi-hole", "url": "192.168.1.99:8081/admin", "icon": "pi-hole" },
     {
       "name": "Home Assistant",
       "url": "192.168.1.99:8123",
